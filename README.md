@@ -1,7 +1,7 @@
 ﻿# PopIn-Form-Izipay in PHP
 
 Este es un ejemplo practico con la pasarela de pago de Izipay utilizando el formulario de pago Pop-In.  
-Visite la documentación para más información aquí: [Documentación Izipay](https://secure.micuentaweb.pe/doc/es-PE/form-payment/standard-payment/sitemap.html)
+Visite la documentación para más información aquí: [Documentación Izipay](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/quick_start_js.html)
  ## Requisitos previos
  
  Tener instalado PHP 7 en adelante
@@ -41,7 +41,7 @@ KEY_JS = 'XXXXXXXX:testpublickey_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 KEY_SHA256 = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX'
 ``` 
 ## 4.-Configurar la respuesta del pago por IPN 
-Configurar la URL de notificación al final del pago para que su servidor web esté al tanto de la información del estado de pago de la transacción. Vea la documentación para más información. Aquí [IPN](https://secure.micuentaweb.pe/doc/es-PE/form-payment/quick-start-guide/implementar-la-ipn.html) 
+Configurar la URL de notificación al final del pago para que su servidor web esté al tanto de la información del estado de pago de la transacción. Vea la documentación para más información. Aquí [IPN](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/api/kb/ipn_usage.html) 
 
 De forma predeterminada, no se notifica al sitio del comerciante en caso de abandono. Debe habilitar la regla de notificación correspondiente en su Back Office Vendedor.
 
