@@ -1,7 +1,7 @@
 ﻿# PopIn-Form-Izipay in PHP
 
 Este es un ejemplo practico con la pasarela de pago de Izipay utilizando el formulario de pago Pop-In.  
-Visite la documentación para más información aquí: [Documentación Izipay](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/quick_start_js.html)
+Visite la documentación para más información aquí: [Documentación Izipay](https://secure.micuentaweb.pe/doc/es-PE/rest/V4.0/javascript/quick_start_popin.html)
  ## Requisitos previos
  
  Tener instalado PHP 7 en adelante
